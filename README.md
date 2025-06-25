@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Collaborative Whiteboard with real-time drawing
 
 ## Project Overview
@@ -60,23 +59,8 @@ npm start
 
 ---
 
-## Deployment Guide
+## Deployment Link : https://white-board-ol1n-1iorgb8d3-pawansinghh01s-projects.vercel.app/
 
-To prepare and deploy the project:
-
-1. Run the production build:
-
-```bash
-npm run build
-```
-
-2. Deploy the built application:
-
-```bash
-npm run deploy
-```
-
----
 
 ## Available Scripts
 
